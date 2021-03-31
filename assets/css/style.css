@@ -72,7 +72,7 @@ h2 {
   margin-bottom: 1rem;
   text-decoration: none;
   color: black;
-  background-color: rgb(3, 247, 31);
+  background-color: rgba(0, 255, 30, 0.837);
   border-radius: 8px;
   outline: none;
 }
